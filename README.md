@@ -36,7 +36,7 @@ frontend that demonstrates the model clearly.
 ## Folder Structure
 
 ```text
-SmartLoanPrediction/
+AiSmartLoanPrediction/
 |-- app.py
 |-- train_model.py
 |-- predict.py
